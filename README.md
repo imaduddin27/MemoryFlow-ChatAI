@@ -91,10 +91,10 @@ AI: Of course, Sarah! Earlier, I recommended these cities in Italy:
 
 You: Thanks! I’ll start with Rome.
 AI: Great choice, Sarah! Rome is a fantastic place to begin your Italian adventure. Let me know if you need more tips!
-```
+
 
 You: quit
 Goodbye, Sarah! Have a wonderful trip!
 
-
+```
 
